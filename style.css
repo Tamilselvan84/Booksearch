@@ -16,3 +16,7 @@
     font-style: normal;
     font-weight: bolder;
 }
+
+#searchResults{
+    background-color: lightblue;
+}
